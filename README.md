@@ -9,7 +9,7 @@ Fotografias: Pexels, uso conforme licença do serviço:
 - flores.jpg: https://www.pexels.com/photo/35279295/
 - bolo.jpg: https://www.pexels.com/photo/7711167/
 - lounge.jpg: https://www.pexels.com/photo/37606408/
-- salao-largo.jpg: https://www.pexels.com/photo/33914522/
+- salao-largo.jpg: https://www.pexels.com/photo/17206146/
 - fachada-detalhe.jpg: https://www.pexels.com/photo/29157848/
 - mesa.jpg: https://www.pexels.com/photo/35985206/
 - festa.jpg: https://www.pexels.com/photo/29486087/
